@@ -23,6 +23,7 @@ nav {
     position: sticky;
     top: 0;
     z-index: 100;
+    border-bottom: 1px solid rgba(231,236,239,255);
 }
 .nav-container {
     width: 90%;
@@ -51,9 +52,11 @@ nav {
 
 header {
     padding-top: 98px;
+    padding-bottom: 32px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: #fff;
 }
 .header-title {
     font-size: 56px;
@@ -86,7 +89,7 @@ header {
 }
 .header-image {
     max-width: 630px;
-    width: 80%;
+    width: 100%;
     margin: 32px auto;
 }
 

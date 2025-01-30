@@ -86,6 +86,7 @@ header {
 }
 .header-image {
     max-width: 630px;
+    width: 90%;
     margin: 32px auto;
 }
 

@@ -65,7 +65,7 @@
     }
 
     header {
-        padding-top: 44px;
+        padding-top: 12px;
     }
     .header-title {
         font-size: 32px;
@@ -83,7 +83,7 @@
     }
 
     .debt-calculator {
-        margin: 42px auto 0;
+        margin: 12px auto 0;
     }
     .debt-calculator h2 {
         font-size: 24px;

@@ -51,6 +51,9 @@ nav {
 
 header {
     padding-top: 98px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .header-title {
     font-size: 56px;
@@ -81,6 +84,11 @@ header {
     width: 90%;
     line-height: 30px;
 }
+.header-image {
+    max-width: 630px;
+    margin: 32px auto;
+}
+
 .debt-calculator {
     margin: 44px auto 0;
     max-width: 766px;

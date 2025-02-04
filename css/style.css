@@ -3,6 +3,9 @@
     color: rgba(73, 73, 73, 1);
     box-sizing: border-box;
 }
+html {
+    scroll-behavior: smooth;
+}
 body {
     margin: 0;
     background-color: rgba(231,236,239,255);
